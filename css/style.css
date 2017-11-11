@@ -1,0 +1,342 @@
+/*********common classes*****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\000032}}
+.spaceBar {
+  width: 100%;
+  height: 30px;
+  float: left;
+  clear: fixed; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\000039}}
+.fullWidth {
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000312}}
+.border {
+  border: 1px solid black; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000316}}
+.borderLogin {
+  border-right: 1px solid white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000320}}
+.topPaddingLogoFromHeader {
+  padding-top: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000323}}
+.bottomPadding {
+  padding-bottom: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000326}}
+.nvbar {
+  padding-left: 0;
+  padding-top: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000331}}
+.floatClass {
+  float: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000335}}
+.pasifiko {
+  font-family: 'autumn in november';
+  color: #ff8533; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000340}}
+.bgImg1 {
+  background-image: url("../images/sevgi.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000343}}
+.bgImg2 {
+  background-image: url("../images/usaqlar.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000346}}
+.bgImg3 {
+  background-image: url("../images/drama.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000349}}
+.bgImg4 {
+  background-image: url("../images/derslikler.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000352}}
+.bgImg5 {
+  background-image: url("../images/qorxu.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000355}}
+.bgImg6 {
+  background-image: url("../images/qadinlar.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000358}}
+.bgImg7 {
+  background-image: url("../images/heyecan.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000361}}
+.bgImg8 {
+  background-image: url("../images/tovsiyyeCover.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000364}}
+.bgImg9 {
+  background-image: url("../images/angelDemon.png"); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000368}}
+.resetMarPad {
+  margin: 0;
+  padding: 0; }
+
+/************ HEADER****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000389}}
+.header {
+  width: 100%;
+  background-color: #ff8533;
+  height: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\0000397}}
+.headerBar {
+  height: 210px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003101}}
+.iconBar {
+  display: inline-block;
+  float: right;
+  text-align: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003107}}
+.iconBar img {
+  margin-right: 15px;
+  color: white;
+  margin-top: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003115}}
+.iconBar a i {
+  margin-right: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003123}}
+li a {
+  color: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003132}}
+a i {
+  color: white; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003138}}
+.headerHover:hover {
+  color: #d1ffe4; }
+
+/************ Slider****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003144}}
+.slider {
+  height: 780px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003147}}
+.slideCenter a {
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003150}}
+.slideCenter {
+  display: fixed;
+  margin-bottom: 300px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003156}}
+.startNow {
+  margin: 0 auto;
+  padding: 16px 0;
+  border-radius: 40px;
+  width: 200px;
+  height: 70px;
+  background-color: #ff8533;
+  font-size: 20px;
+  color: white;
+  margin-top: 50px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003168}}
+.karuselItem {
+  overflow: hidden; }
+
+/************ Yeni Kitablar****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003174}}
+.headerText {
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003177}}
+.headerBox {
+  padding-top: 60px;
+  margin-bottom: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003181}}
+.headerText h3 {
+  padding-top: 10px;
+  color: #e58639; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003185}}
+.bookBox img {
+  width: 150px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003190}}
+.bookBox {
+  padding: 10px 0 10px 10px;
+  width: 200px;
+  text-align: center;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003201}}
+.bookBox h6 {
+  font-size: 12px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003205}}
+.commonBox {
+  margin-left: 25px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003208}}
+.commonBox:hover {
+  -webkit-transition: .6s ease;
+  transition: .6s ease;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003212}}
+.commonBox:hover .newBooksImg {
+  opacity: 0.3; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003216}}
+.commonBox:hover .ellips {
+  opacity: 1; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003219}}
+.ellips {
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  opacity: 0;
+  text-align: center;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 100%;
+  border-width: thick;
+  /*border-color: white;*/
+  /*color: white;*/
+  margin-left: 70px;
+  margin-top: 70px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003234}}
+.newBooksImg {
+  opacity: 1;
+  -webkit-transition: .5s ease;
+  transition: .5s ease; }
+
+/************ Kateqoriyalar****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003241}}
+.otherImg {
+  position: relative;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003249}}
+.categories h4 {
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  color: white;
+  z-index: 5; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003257}}
+.kvImg {
+  position: relative;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 250px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003268}}
+.dzImg {
+  position: relative;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 439px;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003278}}
+.derslikImg {
+  position: relative;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 189px;
+  height: 250px;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003291}}
+.hoverImg:hover {
+  opacity: 0.8; }
+
+/************ TOVSIYYELER****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003297}}
+.tavsiye {
+  width: 100%;
+  height: 300px;
+  display: table;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  margin: 0 auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003307}}
+.shelf {
+  margin: 0 auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003311}}
+.recommendBooks {
+  text-align: center;
+  float: left; }
+
+/************ En cox axtarilanlae****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003320}}
+.searched {
+  background-color: #f2ebe8;
+  width: 100%;
+  height: 700px;
+  margin-top: 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003327}}
+.searchedBook {
+  float: right;
+  width: 400px;
+  height: 600px;
+  margin: 50px 50px;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003336}}
+.searchedTextBox {
+  position: absolute;
+  z-index: 5;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+  margin-top: 300px;
+  padding: 30px 30px;
+  opacity: 0.7; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003346}}
+  .searchedTextBox h4 {
+    color: #111010; }
+
+/***********Footer****************/
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003353}}
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: #380211; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003358}}
+.footerText {
+  margin: 35px 100px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Acer\%20TMP256\/Desktop\/All\%20Folders\/WriteCode\/Kitab\%20Oxu\/sass\/_mainpage\.scss}line{font-family:\00003360}}
+  .footerText p {
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
